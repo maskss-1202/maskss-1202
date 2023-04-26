@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ss-mask-ss
+- 👋 Hi, I’m mask
 <a href="https://github.com/ss-mask-ss/dme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ss-mask-ss&count_private=true&show_icons=true" />
 </a>
