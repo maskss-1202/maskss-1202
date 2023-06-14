@@ -1,4 +1,6 @@
 - 👋 Hi, I’m mask
+
+- I have been looking for someone to play Minecraft with for nearly two years.　:(
 - accountを作り直した
 
 
