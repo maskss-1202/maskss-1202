@@ -1,12 +1,11 @@
 # 👋 Hello, I'm maskss-1202
 
 Hi there! I'm **maskss-1202**, a student and solo developer working on a variety of projects.  
-I like to experiment with new ideas and technologies — often with the help of AI tools to speed things up and expand creativity.
 
 ---
 
 こんにちは、**maskss-1202** です。学生として、個人で様々な開発に取り組んでいます。  
-AIなどの技術を活用しながら、新しい発想やテクノロジーに挑戦するのが好きです。
+AIなどの技術を活用しながら開発しています。
 
 ---
 
