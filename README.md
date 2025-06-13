@@ -17,7 +17,7 @@ AIなどの技術を活用しながら開発しています。
 
 ## 📊 GitHub Stats
 
-![maskss-1202's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskss-1202&show_icons=true&theme=tokyonight&count_private=true)
+![mask's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskss-1202&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskss-1202&layout=compact&theme=tokyonight)
 
