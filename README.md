@@ -1,11 +1,7 @@
 # 👋 Hello, I'm mask
 
-Hi there! I'm **mask**, a student and solo developer working on a variety of projects.  
+<p align="center">MARV Founder & COO | Engineering Student</p>
 
----
-
-こんにちは、**mask** です。学生として、個人で様々な開発に取り組んでいます。  
-AIなどの技術を活用しながら開発しています。
 
 ---
 
